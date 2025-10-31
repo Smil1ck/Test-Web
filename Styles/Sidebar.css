@@ -1,0 +1,127 @@
+.side-bar-header {
+  margin-bottom: 49px;
+  gap: auto;
+  width: 355px;
+  height: 33px;
+  display: flex;
+}
+
+.side-bar-header-icon {
+  display: flex;
+  width: 75px;
+  height: 17px;
+  margin-right: 205px;
+  position: relative;
+  align-items: flex-start;
+}
+
+.header-icon {
+  display: inline-block;
+  margin-right: 20px;
+  width: 15px;
+  height: 17px;
+}
+
+.header-text {
+  display: inline-block;
+  font-family: "IBM Plex Sans";
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+  width: 40px;
+  height: 17px;
+}
+
+.header-button {
+  font-family: "IBM Plex Sans";
+  border-radius: 5px;
+  position: relative;
+  font-size: 10px;
+  text-align: center;
+  width: 79px;
+  height: 33px;
+  background-color: #d2fd9c;
+}
+
+.header-description {
+  position: relative;
+  width: 355px;
+  height: 125px;
+  margin-bottom: 49px;
+}
+
+.description1 {
+  font-family: "IBM Plex Sans";
+  position: relative;
+  display: block;
+  font-size: 42px;
+  color: #ffffff;
+
+  margin-bottom: 20px;
+}
+
+.description2 {
+  font-family: "IBM Plex Sans";
+  position: relative;
+  display: block;
+  font-size: 16px;
+  color: #cbcbcb;
+  width: 355px;
+  height: 17px;
+  white-space: nowrap;
+}
+
+.Offerings {
+  font-family: "IBM Plex Sans";
+  display: block;
+  width: 355px;
+  height: 154px;
+  margin-bottom: 49px;
+}
+
+.buttons-wraper {
+  display: flex;
+  gap: 10px;
+  width: 355px;
+  height: 120px;
+}
+
+.of-buttons {
+  border-radius: 5px;
+  width: 111px;
+  height: 120px;
+  background-color: #619111;
+}
+
+.of-icon {
+  margin-top: 24px;
+  margin-left: 41px;
+  margin-bottom: 0px;
+  width: 30px;
+  height: 30px;
+}
+
+.of-text {
+  font-family: "IBM Plex Sans";
+  display: block;
+  margin-left: 10px;
+  margin-bottom: 24px;
+  font-size: 12px;
+  width: 91px;
+  height: 28px;
+  text-align: center;
+}
+
+.header-refs {
+  width: 355px;
+  height: 14px;
+  display: flex;
+  gap: 13px;
+}
+
+.text-refs {
+  font-family: "IBM Plex Sans";
+  color: #d2fd9c;
+  font-size: 12px;
+  text-decoration: none;
+}
