@@ -1,0 +1,117 @@
+.Header-container {
+  width: 760px;
+  height: 713px;
+  margin-bottom: 80px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Header-img {
+  width: 680px;
+  height: 380px;
+  margin-bottom: 50px;
+}
+
+.main-head-text {
+  width: 680px;
+  height: 44;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 50px;
+  font-family: "IBM Plex Sans";
+}
+
+.logo-wall {
+  display: inline-flex;
+  width: 680px;
+  height: 90px;
+  margin-bottom: 50px;
+  gap: 62px;
+  padding-left: 40px;
+}
+
+.log-text {
+  width: 85px;
+  height: 21px;
+  color: #619111;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "IBM Plex Sans";
+}
+
+.graph-div {
+  width: 760px;
+  height: 736px;
+  display: flex;
+  flex-direction: column;
+}
+
+.ghaph-h1 {
+  margin-left: 108px;
+  width: 465px;
+  height: 44px;
+  font-size: 42px;
+  color: #394508;
+  white-space: nowrap;
+  font-family: "IBM Plex Sans";
+  font-weight: 450;
+  margin-bottom: 10px;
+}
+
+.graph-description {
+  margin-left: 143px;
+  text-align: center;
+  width: 395px;
+  height: 28px;
+  white-space: nowrap;
+  color: #5d5d5d;
+  font-size: 12px;
+  margin-bottom: 30px;
+}
+
+.grapghs {
+  width: 680px;
+  height: 464px;
+  gap: 20px;
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-bottom: 160px;
+}
+
+.graph-box {
+  display: flex;
+  width: 330px;
+  height: 222px;
+  background-color: #d2fd9c;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  padding-top: 33px;
+}
+
+.graph-img {
+  width: 125px;
+  height: 112px;
+}
+
+.graph-text {
+  color: #394508;
+  font-size: 16px;
+  font-family: "IBM Plex Sans";
+}
+
+.graph-item1 {
+  font-size: 90px;
+  color: #394508;
+  font-family: "IBM Plex Sans";
+}
+
+.graph-item2 {
+  font-size: 80px;
+  font-weight: 500;
+  color: #394508;
+  font-family: "IBM Plex Sans";
+  width: 200px;
+  height: 68px;
+}
